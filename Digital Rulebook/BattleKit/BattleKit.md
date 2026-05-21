@@ -4,6 +4,7 @@
 ---
 
 ## BATTLEKIT DESCRIPTIONS
+^BattleKitDescriptions
 
 У каждого элемента **Battlekit** есть **Battlekit Description**, содержащий следующую информацию:
 
@@ -35,6 +36,7 @@
 ---
 
 ## BATTLEKIT LIMITS
+^BattleKitLimits
 
 Если не указано иное, модель ограничена следующим **Battlekit**:
 
