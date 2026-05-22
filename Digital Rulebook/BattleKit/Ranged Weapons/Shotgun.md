@@ -17,4 +17,4 @@ tags: [battlekit, weapon, ranged]
 
 | Type     | Range | Keywords                          |
 | -------- | ----- | --------------------------------- |
-| 2-Handed | 12"   | [[+- DICE\|+1 DICE]], [[SHOTGUN]] |
+| 2-Handed | 12"   | [[+- DICE\|+1 DICE]], [[Digital Rulebook/Battlekit/Ranged Weapons/Shotgun]] |

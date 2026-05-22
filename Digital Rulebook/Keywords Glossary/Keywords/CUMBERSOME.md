@@ -9,3 +9,13 @@ tags: [keyword]
 **Тип:** Effect
 
 **Weapons** с этим **Keyword** требуют двух рук для использования, даже если у модели есть Keyword [[STRONG]]. Однако их по-прежнему можно использовать вместе с **Shield** при условии **Shield Combo**.
+
+---
+
+### Встречается в:
+```dataview
+LIST
+FROM [[]]
+WHERE file.folder != this.file.folder
+SORT file.name ASC
+```

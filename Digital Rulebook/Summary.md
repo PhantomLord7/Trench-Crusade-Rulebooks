@@ -105,15 +105,15 @@
 1. [[BattleKit#^BattleKitDescriptions|Battlekit Descriptions]]
 2. [[BattleKit#^BattleKitLimits|Battlekit Limits]]
 
-### [[Digital Rulebook/BattleKit/Ranged Weapons/Summary|Ranged Weapons]]
-### [[Digital Rulebook/BattleKit/Melee Weapons/Summary|Melee Weapons]]
-### [[Digital Rulebook/BattleKit/Grenades/Summary|Grenades]]
-### [[Digital Rulebook/BattleKit/Shields/Summary|Shields]]
-### [[Digital Rulebook/BattleKit/Equipment/Summary|Equipment]]
+### [[Ranged Weapons|Ranged Weapons]]
+### [[Melee Weapons|Melee Weapons]]
+### [[Grenades|Grenades]]
+### [[Shields|Shields]]
+### [[Equipment|Equipment]]
 
 
 ### [[Campaign Rules]]
-#### [[Digital Rulebook/Campaign Rules/Patrons/Summary|Patrons]]
+#### [[Patrons|Patrons]]
 1. [[Temporal Lord]]
 2. [[Warrior Saint]]
 3. [[Learned Saint]]

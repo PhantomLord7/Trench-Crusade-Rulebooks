@@ -62,7 +62,7 @@
 1. Выбери две из **Skill Tables**, по которым будешь бросать.
 2. Брось **2D6** для каждой из выбранных таблиц и сверься с результатом, чтобы узнать, какие **Skills** доступны модели для изучения (▸ см. [[#Skills Tables|Skills Tables]]).
    - a. Если выпадает **Skill**, который у модели уже есть, используй вместо него ближайший по списку **Skill** ниже, которого у модели ещё нет. Если у модели есть все нижние **Skills** из таблицы, используй ближайший выше.
-   - b. Если выпадает **Patron Skill**, используй один из **Patron Skills** того **Patron**, которого ты выбрал для своей **Warband** (▸ см. [[Digital Rulebook/Campaign Rules/Patrons/Summary|Patrons]]).
+   - b. Если выпадает **Patron Skill**, используй один из **Patron Skills** того **Patron**, которого ты выбрал для своей **Warband** (▸ см. [[Patrons|Patrons]]).
 1. Выбери один из двух выпавших **Skills**, который модель выучит, и запиши его за моделью в **Warband Roster**.
 
 > [!warning] Models That Cannot Be Promoted
@@ -115,8 +115,8 @@
 |---|---|
 | **2** | **Patron Skill:** Выбери один из **Skills**, предлагаемых твоим **Patron**. |
 | **3** | **Hunter:** **Ranged Attacks**, совершаемые моделью с этим **Skill**, имеют **Keyword** [[IGNORE [MODIFIER]\|IGNORE]] [[COVER]]. |
-| **4** | **Gunslinger:** Следующие правила применяются к модели с этим **Skill**, если она вооружена **Ranged Weapons** с **Keyword** [[PISTOL]]:<br>✦ Если она вооружена 2 оружиями с **Keyword** [[PISTOL]], она может совершить **Shoot** **ACTION** одним из них и сразу же совершить **Shoot** **ACTION** другим.<br>✦ Добавь **Keywords** [[ASSAULT]] и **IGNORE OFF-HAND WEAPON** ко всем оружиям с **Keyword** [[PISTOL]] (если у них этих **Keywords** ещё нет). |
-| **5** | **Far Shot:** Добавь **6"** к **Range** следующих оружий, когда они используются моделью с этим **Skill**:<br>✦ Любое оружие с **Keyword** [[PISTOL]].<br>✦ Любое оружие, в названии которого присутствует слово «**Rifle**» (например, **Bolt-Action Rifle**, **Assault Rifle** и т.д.).<br>✦ Любое оружие, в названии которого присутствует слово «**Jezzail**» или «**Arquebus**». |
+| **4** | **Gunslinger:** Следующие правила применяются к модели с этим **Skill**, если она вооружена **Ranged Weapons** с **Keyword** [[Digital Rulebook/Battlekit/Ranged Weapons/Pistol]]:<br>✦ Если она вооружена 2 оружиями с **Keyword** [[Digital Rulebook/Battlekit/Ranged Weapons/Pistol]], она может совершить **Shoot** **ACTION** одним из них и сразу же совершить **Shoot** **ACTION** другим.<br>✦ Добавь **Keywords** [[ASSAULT]] и **IGNORE OFF-HAND WEAPON** ко всем оружиям с **Keyword** [[Digital Rulebook/Battlekit/Ranged Weapons/Pistol]] (если у них этих **Keywords** ещё нет). |
+| **5** | **Far Shot:** Добавь **6"** к **Range** следующих оружий, когда они используются моделью с этим **Skill**:<br>✦ Любое оружие с **Keyword** [[Digital Rulebook/Battlekit/Ranged Weapons/Pistol]].<br>✦ Любое оружие, в названии которого присутствует слово «**Rifle**» (например, **Bolt-Action Rifle**, **Assault Rifle** и т.д.).<br>✦ Любое оружие, в названии которого присутствует слово «**Jezzail**» или «**Arquebus**». |
 | **6** | **Sharp Eyes:** **Ranged Attacks**, совершаемые моделью с этим **Skill**, имеют **Keyword** **IGNORE LONG RANGE**. |
 | **7** | **Ranged Proficiency:** Добавь **+1 DICE** к **Ranged Characteristic** модели с этим **Skill**. |
 | **8** | **Sniper's Nest:** Добавь [[+- DICE\|+2 DICE]] к броскам **Ranged Attacks**, совершаемых моделью с этим **Skill** с модификатором **Elevated Position**, вместо **+1 DICE**. |

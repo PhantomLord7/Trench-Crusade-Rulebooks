@@ -1,0 +1,120 @@
+/* ===== Trench Crusade Vault Stylesheet ===== */
+
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&family=UnifrakturMaguntia&display=swap');
+
+/* ----- Заголовки ----- */
+
+.markdown-rendered h1,
+.markdown-preview-view h1,
+.cm-header-1 {
+  font-family: 'Pirata One', 'UnifrakturMaguntia', serif !important;
+  font-size: 2.6em !important;
+  color: #a52a2a !important;
+  border-bottom: 2px solid #8b0000 !important;
+  padding-bottom: 0.2em !important;
+  letter-spacing: 0.02em;
+}
+
+.markdown-rendered h2,
+.markdown-preview-view h2,
+.cm-header-2 {
+  color: #a52a2a !important;
+  border-bottom: 1px solid #8b0000 !important;
+  font-weight: 700 !important;
+}
+
+.markdown-rendered h3,
+.markdown-preview-view h3,
+.cm-header-3 {
+  color: #c44a4a !important;
+  font-weight: 700 !important;
+}
+
+.markdown-rendered h4,
+.markdown-preview-view h4,
+.cm-header-4 {
+  color: #d96666 !important;
+  font-style: italic;
+}
+
+/* ----- Callouts ----- */
+
+.callout[data-callout="warning"] {
+  --callout-color: 139, 0, 0;
+  border-left: 3px solid #8b0000;
+}
+
+.callout[data-callout="info"] {
+  --callout-color: 60, 90, 130;
+}
+
+.callout[data-callout="quote"] {
+  font-style: italic;
+  border-left: 3px solid #6b4423;
+  --callout-color: 107, 68, 35;
+}
+
+.callout[data-callout="example"] {
+  --callout-color: 92, 64, 51;
+  border-left: 3px solid #5c4033;
+}
+
+.callout[data-callout="tip"] {
+  --callout-color: 90, 110, 70;
+}
+
+/* ----- Жирный текст — приглушённый красный (для игротерминов) ----- */
+
+.markdown-rendered strong,
+.markdown-preview-view strong {
+  color: #d97070;
+}
+
+/* ----- Курсив — кремовый (для лора) ----- */
+
+.markdown-rendered em,
+.markdown-preview-view em {
+  color: #e8d8b8;
+}
+
+/* ----- Внутренние ссылки ----- */
+
+.markdown-rendered a.internal-link,
+.markdown-preview-view a.internal-link {
+  color: #c44a4a;
+  text-decoration: none;
+  border-bottom: 1px dotted #c44a4a;
+}
+
+.markdown-rendered a.internal-link:hover,
+.markdown-preview-view a.internal-link:hover {
+  color: #ff6b6b;
+  border-bottom: 1px solid #ff6b6b;
+}
+
+/* ----- Таблицы — стиль книги ----- */
+
+.markdown-rendered table,
+.markdown-preview-view table {
+  border-collapse: collapse;
+}
+
+.markdown-rendered table th,
+.markdown-preview-view table th {
+  background: rgba(139, 0, 0, 0.15);
+  color: #d97070;
+  border-bottom: 2px solid #8b0000;
+}
+
+.markdown-rendered table td,
+.markdown-preview-view table td {
+  border-bottom: 1px solid rgba(139, 0, 0, 0.2);
+}
+
+/* ----- Горизонтальная черта ----- */
+
+.markdown-rendered hr,
+.markdown-preview-view hr {
+  border-top: 1px solid #8b0000;
+  opacity: 0.5;
+}

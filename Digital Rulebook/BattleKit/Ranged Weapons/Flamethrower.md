@@ -17,4 +17,4 @@ tags: [battlekit, weapon, ranged]
 
 | Type | Range | Keywords |
 |------|-------|----------|
-| 2-Handed | 8" | [[+- INJURY DICE\|-1 INJURY DICE]], [[FIRE]], [[FLAMETHROWER]], [[IGNORE ARMOUR]] |
+| 2-Handed | 8" | [[+- INJURY DICE\|-1 INJURY DICE]], [[FIRE]], [[Digital Rulebook/Battlekit/Ranged Weapons/Flamethrower]], [[IGNORE ARMOUR]] |

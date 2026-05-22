@@ -9,3 +9,13 @@ tags: [keyword, marker]
 **Тип:** Tag
 
 Модель находится под действием сверхъестественной или химической болезни, дающей временные эффекты (▶ см. *Infection Markers* в **Warbands of Trench Crusade**).
+
+---
+
+### Встречается в:
+```dataview
+LIST
+FROM [[]]
+WHERE file.folder != this.file.folder
+SORT file.name ASC
+```

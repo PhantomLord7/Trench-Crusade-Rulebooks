@@ -129,7 +129,7 @@
 ## PROFILES
 ^Profiles
 
-У каждой модели есть **Profile**, описывающий её эффективность в игре. Помимо этого, **Battlekit Profiles** охватывают **Weapons**, **Armour** и **Equipment**, которые модель может нести. Ниже приведены примеры **Profile** модели и **Battlekit Profile**. Подробное объяснение **Profile** модели даётся в *Starting a Warband* (▶ см. *Starting a Warband* в **Warbands of Trench Crusade**), а **Battlekit Profile** объясняется в разделе **Battlekit** (▶ см. [[Battlekit]]).
+У каждой модели есть **Profile**, описывающий её эффективность в игре. Помимо этого, **Battlekit Profiles** охватывают **Weapons**, **Armour** и **Equipment**, которые модель может нести. Ниже приведены примеры **Profile** модели и **Battlekit Profile**. Подробное объяснение **Profile** модели даётся в *Starting a Warband* (▶ см. *Starting a Warband* в **Warbands of Trench Crusade**), а **Battlekit Profile** объясняется в разделе **Battlekit** (▶ см. [[BattleKit]]).
 
 #### Пример:
 

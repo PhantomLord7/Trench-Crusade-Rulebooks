@@ -64,7 +64,7 @@ tags:
 
 | Battlekit | **Trench Dog** не может иметь никакого **Battlekit**. |
 |---|---|
-| **Abilities** | ☩ **Four Paws:** Добавь [[+- DICE\|+1 DICE]] к **Risky Success Rolls** для **Trench Dog**, когда он совершает **Climb**, **Jump** или **Dash** **ACTION**.<br>☩ **Pack Loyalty:** **Trench Dog** имеет тот же **Faction Keyword**, что и модель, которой он выдан. Например, если у владельца **Trench Dog** есть **Keyword** [[NEW ANTIOCH]], то и у **Trench Dog** будет **Keyword** **NEW ANTIOCH**.<br>☩ **Teeth and Claws:** **Trench Dog** может совершать **Melee Attack**, даже несмотря на отсутствие **Melee Weapon**. |
+| **Abilities** | ☩ **Four Paws:** Добавь [[+- DICE\|+1 DICE]] к **Risky Success Rolls** для **Trench Dog**, когда он совершает **Climb**, **Jump** или **Dash** **ACTION**.<br>☩ **Pack Loyalty:** **Trench Dog** имеет тот же **Faction Keyword**, что и модель, которой он выдан. Например, если у владельца **Trench Dog** есть **Keyword** [[Digital Rulebook/Keywords Glossary/Keywords/NEW ANTIOCH]], то и у **Trench Dog** будет **Keyword** **NEW ANTIOCH**.<br>☩ **Teeth and Claws:** **Trench Dog** может совершать **Melee Attack**, даже несмотря на отсутствие **Melee Weapon**. |
 | **Keywords** | ▸ см. выше |
 
 > [!info] Лорная справка

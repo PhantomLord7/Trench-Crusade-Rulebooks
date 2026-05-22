@@ -26,3 +26,14 @@
 | [[II — Hunt for Heroes]]    | [[VI — Dragon Hunt]]   | [[X — Don't Breathe]]    |
 | [[III — Relic Hunt]]        | [[VII — Supply Raid]]  | [[XI — The High Ground]] |
 | [[IV — Trench Warfare]]     | [[VIII — From Below]]  | [[XII — Great War]]      |
+
+```dataview
+TABLE WITHOUT ID
+  scenario_number as "№",
+  file.link as "Scenario",
+  battlefield_archetype as "Archetype",
+  game_length as "Length"
+FROM "Digital Rulebook/Scenarios"
+WHERE type = "scenario"
+SORT scenario_number ASC
+```

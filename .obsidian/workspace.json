@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88b97fa2ef19d17a",
+        "id": "4faddee68c47e541",
         "type": "tabs",
         "children": [
           {
-            "id": "546604a9eea8f37a",
+            "id": "4cda2af05e585bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Rulebook/Core Rules.md",
+                "file": "Digital Rulebook/Campaign Rules/Exploration Step.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Rules"
-            }
-          },
-          {
-            "id": "ce19af70709b9211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Rulebook/Scenarios/Scenario Format.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scenario Format"
+              "title": "Exploration Step"
             }
           }
         ]
@@ -168,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Rulebook/Core Rules.md",
+                "file": "Digital Rulebook/Campaign Rules/Exploration Step.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Core Rules"
+              "title": "Структура Exploration Step"
             }
           },
           {
@@ -206,34 +192,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "546604a9eea8f37a",
+  "active": "4cda2af05e585bea",
   "lastOpenFiles": [
-    "Digital Rulebook/Campaign Rules/Campaign Rules.md",
-    "Digital Rulebook/Summary.md",
-    "Digital Rulebook/Scenarios/Scenario Format.md",
-    "Digital Rulebook/Scenarios/Scenarios.md",
-    "Digital Rulebook/Campaign Rules/Exploration Step.md",
-    "Digital Rulebook/Campaign Rules/Glory Items/Glory Items.md",
     "Digital Rulebook/Campaign Rules/Promotions & Experience Step.md",
-    "Digital Rulebook/Campaign Rules/Campaign Phase.md",
-    "Digital Rulebook/Campaign Rules/Trauma Step.md",
-    "Digital Rulebook/Campaign Rules/Glory Items/Glory Item Cartulary.md",
-    "Digital Rulebook/Campaign Rules/Roaster Step.md",
-    "Digital Rulebook/Campaign Rules/Reinforcements Step.md",
-    "Digital Rulebook/Campaign Rules/Rare Exploration Location Table.md",
-    "Digital Rulebook/Campaign Rules/Quartermaster Step.md",
     "Digital Rulebook/Campaign Rules/Legendary Exploration Location Table.md",
-    "Digital Rulebook/Campaign Rules/Exploration Skills.md",
-    "Digital Rulebook/Campaign Rules/Common Exploration Location Table.md",
-    "Digital Rulebook/Campaign Rules/Campaign Games.md",
-    "Digital Rulebook/Campaign Rules/Patrons/Summary.md",
-    "Patrons.md",
-    "Digital Rulebook/BattleKit/BattleKit.md",
-    "Digital Rulebook/Scenarios/XII — Great War.md",
-    "Digital Rulebook/Scenarios/XI — The High Ground.md",
-    "Digital Rulebook/Scenarios/IX — Fields of Glory.md",
-    "Digital Rulebook/Scenarios/X — Don't Breathe.md",
-    "Digital Rulebook/Scenarios/VIII — From Below.md",
+    "Digital Rulebook/Campaign Rules/Quartermaster Step.md",
+    "Digital Rulebook/Campaign Rules/Rare Exploration Location Table.md",
+    "Digital Rulebook/Summary.md",
+    "Info.md",
+    "Digital Rulebook/Campaign Rules/Patrons/Patrons.md",
+    "Digital Rulebook/Keywords Glossary/Keywords Glossary.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/+- DICE.md",
+    "Digital Rulebook/Keywords Glossary/Keyword Benefits.md",
+    "Digital Rulebook/Keywords Glossary/Summary.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/TOUGH.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/SULTANATE.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/THE COURT.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/STRONG.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/SKIRMISHER.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/SHRAPNEL.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/SHOTGUN.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/SCATTER.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/RISKY.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/RELOAD.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/REGENERATE.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/PISTOL.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/PILGRIM.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/NEW ANTIOCH.md",
+    "Digital Rulebook/Keywords Glossary/Keywords/NEGATE {KEYWORD}.md",
+    "Digital Rulebook/Campaign Rules/Glory Items/Items/Fractions",
     "Digital Rulebook/Images/SC12.png",
     "Digital Rulebook/Images/SC11.png",
     "Digital Rulebook/Images/SC10.png",
@@ -253,7 +240,6 @@
     "Digital Rulebook/Campaign Rules/Glory Items/Trench Pilgrims",
     "Digital Rulebook/Campaign Rules/Glory Items/New Antioch",
     "Digital Rulebook/Campaign Rules/Glory Items",
-    "Digital Rulebook/Glory Items",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

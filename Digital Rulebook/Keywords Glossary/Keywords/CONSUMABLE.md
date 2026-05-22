@@ -9,3 +9,13 @@ tags: [keyword]
 **Тип:** Effect
 
 В кампании (▶ см. [[Campaign Rules]]) **Battlekit** с этим **Keyword** теряется в конце партии, в которой он использован.
+
+---
+
+### Встречается в:
+```dataview
+LIST
+FROM [[]]
+WHERE file.folder != this.file.folder
+SORT file.name ASC
+```

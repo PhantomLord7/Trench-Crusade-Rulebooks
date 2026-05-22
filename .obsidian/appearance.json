@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "trench-crusade"
+  ],
+  "theme": "obsidian"
+}

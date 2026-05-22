@@ -33,4 +33,4 @@ tags:
 
 ## Special Rules
 
-☩ **Spirit of Vengeance:** Добавь [[+- INJURY DICE\|+1 INJURY DICE]] к броскам против моделей с **Keyword** [[BLACK GRAIL]] или [[DEMONIC]].
+☩ **Spirit of Vengeance:** Добавь [[+- INJURY DICE\|+1 INJURY DICE]] к броскам против моделей с **Keyword** [[Digital Rulebook/Keywords Glossary/Keywords/Black Grail]] или [[DEMONIC]].

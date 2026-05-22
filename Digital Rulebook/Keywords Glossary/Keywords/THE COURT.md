@@ -9,3 +9,13 @@ tags: [keyword, faction]
 **Тип:** Tag
 
 Эта модель является частью фракции **Court of the Seven-Headed Serpent**.
+
+---
+
+### Встречается в:
+```dataview
+LIST
+FROM [[]]
+WHERE file.folder != this.file.folder
+SORT file.name ASC
+```

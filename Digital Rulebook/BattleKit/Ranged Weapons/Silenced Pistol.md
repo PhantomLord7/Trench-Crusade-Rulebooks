@@ -17,7 +17,7 @@ tags: [battlekit, weapon, ranged, dual-purpose]
 
 | Type | Range | Keywords |
 |------|-------|----------|
-| 1-Handed | 12"/Melee | [[ASSAULT]], [[PISTOL]] |
+| 1-Handed | 12"/Melee | [[ASSAULT]], [[Digital Rulebook/Battlekit/Ranged Weapons/Pistol]] |
 
 ## Special Rules
 
