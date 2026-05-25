@@ -8,6 +8,6 @@
 6. **[[Warband Entries#^ReadyForBattle|Ready For Battle]]**
 
 ### [[The Principality Of New Antioch]]
- 1. **[[Warband Creation]]**
- 2. **[[Warband Creation#^SpecialRules|Special Rules]]**
- 3. **[[Warband Creation#^ArmouryTables|Armoury Tables]]**
+ 1. **[[Warbands of Trench Crusade/The Principality of New Antioch/Warband Creation]]**
+ 2. **[[Warbands of Trench Crusade/The Principality of New Antioch/Warband Creation#^SpecialRules|Special Rules]]**
+ 3. **[[Warbands of Trench Crusade/The Principality of New Antioch/Warband Creation#^ArmouryTables|Armoury Tables]]**
