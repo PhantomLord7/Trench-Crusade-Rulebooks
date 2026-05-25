@@ -7,4 +7,4 @@
 ## В этом разделе
 
 - [[Keyword Benefits]] — как работают Keywords (Tag vs Effect)
-- [[Keywords Glossary|Полный глоссарий]] — все Keywords игры
+- [[Digital Rulebook/Keywords Glossary/Keywords Glossary|Полный глоссарий]] — все Keywords игры

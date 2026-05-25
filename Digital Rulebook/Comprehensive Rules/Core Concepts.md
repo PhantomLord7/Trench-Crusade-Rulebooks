@@ -6,7 +6,7 @@
 ## KEYWORDS
 ^Keywords
 
-Некоторые слова в правилах написаны **ЗАГЛАВНЫМИ БУКВАМИ**, такие как **ACTION** или **BLOOD MARKER**. Эти слова называются **Keywords** — они определяют основные способности, правила, типы войск и категории урона в игре. Глоссарий всех **Keywords**, используемых в игре, можно найти ниже (▶ см. [[Keywords Glossary]]).
+Некоторые слова в правилах написаны **ЗАГЛАВНЫМИ БУКВАМИ**, такие как **ACTION** или **BLOOD MARKER**. Эти слова называются **Keywords** — они определяют основные способности, правила, типы войск и категории урона в игре. Глоссарий всех **Keywords**, используемых в игре, можно найти ниже (▶ см. [[Digital Rulebook/Keywords Glossary/Keywords Glossary]]).
 
 ---
 ## SUCCESS ROLLS
@@ -129,7 +129,7 @@
 ## PROFILES
 ^Profiles
 
-У каждой модели есть **Profile**, описывающий её эффективность в игре. Помимо этого, **Battlekit Profiles** охватывают **Weapons**, **Armour** и **Equipment**, которые модель может нести. Ниже приведены примеры **Profile** модели и **Battlekit Profile**. Подробное объяснение **Profile** модели даётся в *Starting a Warband* (▶ см. *Starting a Warband* в **Warbands of Trench Crusade**), а **Battlekit Profile** объясняется в разделе **Battlekit** (▶ см. [[BattleKit]]).
+У каждой модели есть **Profile**, описывающий её эффективность в игре. Помимо этого, **Battlekit Profiles** охватывают **Weapons**, **Armour** и **Equipment**, которые модель может нести. Ниже приведены примеры **Profile** модели и **Battlekit Profile**. Подробное объяснение **Profile** модели даётся в *Starting a Warband* (▶ см. *Starting a Warband* в **Warbands of Trench Crusade**), а **Battlekit Profile** объясняется в разделе **Battlekit** (▶ см. [[Digital Rulebook/Battlekit/Battlekit]]).
 
 #### Пример:
 

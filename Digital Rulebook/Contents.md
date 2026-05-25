@@ -81,7 +81,7 @@
 
 ### KEYWORD Glossary
 1. [[Keyword Benefits]]
-2. [[Keywords Glossary]]
+2. [[Digital Rulebook/Keywords Glossary/Keywords Glossary]]
 
 ### [[Trench Crusade Terrain]]
 1. **[[Trench Crusade Terrain#^TheBattlefield|The Battlefield]]**
@@ -101,9 +101,9 @@
 15. [[DECIMATED RUINS]]
 16. [[TRENCH LINES]]
 
-### [[BattleKit|Battlekit]]
-1. [[BattleKit#^BattleKitDescriptions|Battlekit Descriptions]]
-2. [[BattleKit#^BattleKitLimits|Battlekit Limits]]
+### [[Digital Rulebook/Battlekit/Battlekit|Battlekit]]
+1. [[Digital Rulebook/Battlekit/Battlekit#^BattleKitDescriptions|Battlekit Descriptions]]
+2. [[Digital Rulebook/Battlekit/Battlekit#^BattleKitLimits|Battlekit Limits]]
 
 ### [[Ranged Weapons|Ranged Weapons]]
 ### [[Melee Weapons|Melee Weapons]]

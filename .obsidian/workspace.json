@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4faddee68c47e541",
+        "id": "010fc5f2390af2aa",
         "type": "tabs",
         "children": [
           {
-            "id": "4cda2af05e585bea",
+            "id": "c2eb31d9ecab131c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Rulebook/Campaign Rules/Trauma Step.md",
+                "file": "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit/Engineer Body Armour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trauma Step"
+              "title": "Engineer Body Armour"
             }
           },
           {
-            "id": "b27046da7b6a76c8",
+            "id": "2d0e5c2251069d54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Rulebook/Campaign Rules/Glory Items/Glory Items.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glory Items"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "D66",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,34 +203,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cda2af05e585bea",
+  "active": "2d0e5c2251069d54",
   "lastOpenFiles": [
-    "Digital Rulebook/Keywords Glossary/Keywords/NEW ANTIOCH.md",
-    "Digital Rulebook/Campaign Rules/Trauma Step.md",
-    "Digital Rulebook/Campaign Rules/Roaster Step.md",
-    "Digital Rulebook/Campaign Rules/Reinforcements Step.md",
-    "Digital Rulebook/Campaign Rules/Rare Exploration Location Table.md",
-    "Digital Rulebook/Campaign Rules/Quartermaster Step.md",
-    "Digital Rulebook/Campaign Rules/Exploration Step.md",
-    "Digital Rulebook/Campaign Rules/Glory Items/Glory Items.md",
-    "Digital Rulebook/Campaign Rules/Promotions & Experience Step.md",
-    "Digital Rulebook/Campaign Rules/Legendary Exploration Location Table.md",
-    "Digital Rulebook/Summary.md",
-    "Info.md",
-    "Digital Rulebook/Campaign Rules/Patrons/Patrons.md",
-    "Digital Rulebook/Keywords Glossary/Keywords Glossary.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit/New Antioch Battlekit.md",
+    "Digital Rulebook/Battlekit/Armour/Reinforced Armour.md",
+    "Digital Rulebook/Battlekit/Grenades/Grenades.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit/Engineer Body Armour.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit/Heavy Ballistic Shield.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit/Machine Armour.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Creation.md",
+    "Digital Rulebook/Battlekit/Equipment/Equipment.md",
+    "Digital Rulebook/Battlekit/Armour/Armour.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/The Principality Of New Antioch.md",
+    "Warbands of Trench Crusade/Contents.md",
+    "Digital Rulebook/Battlekit/Ranged Weapons/Ranged Weapons.md",
+    "Warbands of Trench Crusade/Introduction.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit",
     "Digital Rulebook/Keywords Glossary/Keywords/+- DICE.md",
-    "Digital Rulebook/Keywords Glossary/Keyword Benefits.md",
-    "Digital Rulebook/Keywords Glossary/Summary.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/TOUGH.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/SULTANATE.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/THE COURT.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/STRONG.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/SKIRMISHER.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/SHRAPNEL.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/SHOTGUN.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/SCATTER.md",
-    "Digital Rulebook/Keywords Glossary/Keywords/RISKY.md",
+    "Digital Rulebook/Campaign Rules/Glory Items/Glory Item Cartulary.md",
+    "Digital Rulebook/Campaign Rules/Glory Items/Glory Items.md",
+    "Digital Rulebook/Battlekit/Battlekit.md",
+    "Digital Rulebook/Battlekit/BattleKit Template.md",
+    "Warbands of Trench Crusade/Images/30.png",
+    "Warbands of Trench Crusade/Keywords Glossary.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch",
+    "Digital Rulebook/Keywords Glossary/Keywords Glossary.md",
+    "Digital Rulebook/Keywords Glossary/Contents.md",
+    "Warbands of Trench Crusade/Images/1.png",
+    "Warbands of Trench Crusade/Images",
+    "Warbands of Trench Crusade/Starting a Warband/Warband Entries.md",
+    "Digital Rulebook/Keywords Glossary/Template Keyword.md.md",
+    "Без названия.md",
+    "Warbands of Trench Crusade/Starting a Warband/Battlekit.md",
+    "Warbands of Trench Crusade/Starting a Warband/Starting a Warband.md",
+    "Warbands of Trench Crusade/Starting a Warband",
+    "Warbands of Trench Crusade",
     "Digital Rulebook/Campaign Rules/Glory Items/Items/Fractions",
     "Digital Rulebook/Images/SC12.png",
     "Digital Rulebook/Images/SC11.png",
@@ -243,17 +247,10 @@
     "Digital Rulebook/Images/SC7.png",
     "Digital Rulebook/Images/SC6.png",
     "Digital Rulebook/Images/SC5.png",
-    "Digital Rulebook/Terrain/SC5.png",
-    "Digital Rulebook/Images/SC4.png",
     "Digital Rulebook/Scenarios",
     "Digital Rulebook/Campaign Rules/Glory Items/Items",
     "Digital Rulebook/Campaign Rules/Glory Items/The Court",
     "Digital Rulebook/Campaign Rules/Glory Items/Black Grail",
-    "Digital Rulebook/Campaign Rules/Glory Items/Heretic Legions",
-    "Digital Rulebook/Campaign Rules/Glory Items/Iron Sultanate",
-    "Digital Rulebook/Campaign Rules/Glory Items/Trench Pilgrims",
-    "Digital Rulebook/Campaign Rules/Glory Items/New Antioch",
-    "Digital Rulebook/Campaign Rules/Glory Items",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]

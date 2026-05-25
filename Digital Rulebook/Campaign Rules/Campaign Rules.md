@@ -3,4 +3,4 @@
 
 ### Beginning the Campaign
 
-В начале кампании каждый игрок должен сначала набрать стартовый **Warband** (▶ см. *Starting a Warband* в **Warbands of Trench Crusade**). После набора **Warband** игроки должны выбрать для него **Patron**.
+В начале кампании каждый игрок должен сначала набрать стартовый **Warband** (▶ см. *[[Starting a Warband]]* в **[[Introduction|Warbands of Trench Crusade]]**). После набора **Warband** игроки должны выбрать для него **Patron**.
