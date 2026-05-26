@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "afc4107f70d45eda",
+        "id": "f27dcd27a6134497",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2cabd3b428e75a",
+            "id": "cb0cccde558f42a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warbands of Trench Crusade/The Principality of New Antioch/Battlekit/New Antioch Battlekit.md",
+                "file": "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Antioch Battlekit"
-            }
-          },
-          {
-            "id": "e662366addcb85d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Contents.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Contents"
+              "title": "Warband Creation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,54 +192,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e662366addcb85d8",
+  "active": "e1246e39d57a0f53",
   "lastOpenFiles": [
+    "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Variants",
+    "Warbands of Trench Crusade/The Cult of the Black Grail/Battlekit",
+    "Warbands of Trench Crusade/The Cult of the Black Grail/Models",
+    "Warbands of Trench Crusade/The Cult of the Black Grail/The Cult of the Black Grail.md",
+    "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Creation.md",
+    "Warbands of Trench Crusade/Images/107.png",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Contents.md",
+    "Warbands of Trench Crusade/The Cult of the Black Grail",
     "Warbands of Trench Crusade/Trench Pilgrims/Warband Variants/Contents.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Contents.md",
-    "Warbands of Trench Crusade/Trench Pilgrims/Models/Elite Warband Entries/Contents.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit/Sultanate Grand Cannon.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit/Iron Wall Kalkan.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit/Explosive Charges.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit/Banner of Desert Wind.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit/Anqā Guard.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Defenders of the Iron Wall.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Armoury & Battlekit/Fire Shield.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Armoury & Battlekit/Elixir of Al-Khidr.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Alchemical Formulas.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Armoury & Battlekit",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Takwin Homunculus.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/The House of Wisdom.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut/Armoury & Battlekit/Hashashin Leaf.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut/Armoury & Battlekit/Golden Khanjar.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut/Armoury & Battlekit/Bow of Alamut.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut/Fida'i of Alamut — The Cabal of Assassins.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut/Armoury & Battlekit",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Troops Warband Entries/Contents.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Elite Warband Entries/Contents.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Без названия",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Heretic Naval Raiders.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit/Tarnished Armour.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit/Standard of Mammon.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit/Gas Bombs.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit/Golden Calf Altar.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit/Coin Hammer.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Knights of Avarice.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit",
+    "Warbands of Trench Crusade/Heretic Legions/Heretic Legions.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Trench Ghosts/Armoury & Battlekit/Tank Palanquin.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Trench Ghosts/Armoury & Battlekit/Sarcophagus Mine.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Trench Ghosts/Trench Ghosts.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Trench Ghosts/Armoury & Battlekit",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries/Contents.md",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Trench Ghosts",
+    "Warbands of Trench Crusade/Heretic Legions/Warband Variants",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries/Artillery Witch.md",
+    "Warbands of Trench Crusade/Images/102.png",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries/Anointed Heavy Infantry.md",
+    "Warbands of Trench Crusade/Images/100.png",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries/Heretic Troopers.md",
+    "Warbands of Trench Crusade/Images/98.png",
     "Warbands of Trench Crusade/Trench Pilgrims/Models/Troops Warband Entries/Contents.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Troops Warband Entries/Brazen Bull.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Troops Warband Entries/Janissaries.md",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Elite Warband Entries/Contents.md",
+    "Warbands of Trench Crusade/Trench Pilgrims/Models/Elite Warband Entries/Contents.md",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries/Wretched.md",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries/War Wolf Assault Beast.md",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Elite Warband Entries/Chorister.md",
+    "Warbands of Trench Crusade/Images/96.png",
+    "Warbands of Trench Crusade/Images/93.png",
+    "Warbands of Trench Crusade/Images/87.png",
+    "Warbands of Trench Crusade/Heretic Legions/Models/Troops Warband Entries",
     "Warbands of Trench Crusade/Images/82.png",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Troops Warband Entries/Lions of Jabir.md",
     "Warbands of Trench Crusade/Images/81.png",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Troops Warband Entries/Azebs.md",
     "Warbands of Trench Crusade/Images/79.png",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Elite Warband Entries/Jabirean Alchemist.md",
-    "Warbands of Trench Crusade/Images/77.png",
-    "Warbands of Trench Crusade/Images/75.png",
-    "Warbands of Trench Crusade/Images/74.png",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Troops Warband Entries",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models/Elite Warband Entries",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Models",
-    "Warbands of Trench Crusade/Images/67.png",
-    "Warbands of Trench Crusade/Images/48.png",
-    "Warbands of Trench Crusade/Images/58.png",
-    "Warbands of Trench Crusade/Images/56.png",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
