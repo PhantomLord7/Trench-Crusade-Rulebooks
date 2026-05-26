@@ -38,7 +38,7 @@ Warband'ы Heretic Legions могут использовать перечисл�
 | • [[Blasphemous Staff]] | **ELITE** only           | 2 ☼   |
 | Great Hammer-Maul       | —                        | 10 👑 |
 | Great Sword-Axe         | —                        | 12 👑 |
-| • [[Hellblade]]         | Limit: 2                 | 1 ☼   |
+| • [[Warbands of Trench Crusade/Heretic Legions/Battlekit/Hellblade]]         | Limit: 2                 | 1 ☼   |
 | Polearm                 | Shield Combo             | 7 👑  |
 | • [[Sacrificial Blade]] | **ELITE** only, Limit: 2 | 23 👑 |
 | Sword-Axe               | —                        | 4 👑  |
