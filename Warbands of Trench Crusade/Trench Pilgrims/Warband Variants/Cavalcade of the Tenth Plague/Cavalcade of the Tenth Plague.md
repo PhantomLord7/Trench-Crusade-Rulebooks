@@ -40,6 +40,15 @@ tags:
 
 Следующий Battlekit доступен Cavalcade of the Tenth Plague Warband.
 
-### Sacrificial Lamb · 5 👑 · Consumable
-
-См. [[Sacrificial Lamb]].
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/Trench Pilgrims/Warband Variants/Cavalcade of the Tenth Plague/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

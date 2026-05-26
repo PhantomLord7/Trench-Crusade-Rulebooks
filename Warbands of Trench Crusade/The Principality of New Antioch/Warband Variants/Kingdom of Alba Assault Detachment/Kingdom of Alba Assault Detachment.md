@@ -48,6 +48,14 @@ tags:
 
 Следующие пункты Battlekit доступны Kingdom of Alba Warband.
 
-### Lochaber Axe · 20 👑
-
-См. [[Lochaber Axe]].
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Kingdom of Alba Assault Detachment/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

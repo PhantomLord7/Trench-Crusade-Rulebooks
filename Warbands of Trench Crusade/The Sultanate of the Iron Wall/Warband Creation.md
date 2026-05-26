@@ -5,10 +5,12 @@
 У тебя есть **700 👑**, чтобы набрать Iron Sultanate Warband для кампании (▶ см. [[Starting a Warband]]). Sultanate of the Iron Wall — **Faithful**.
 
 ## Special Rules
+^SpecialRules
 
 Никаких особых правил к стандартному Iron Sultanate Warband не применяется.
 
 ## Armoury Tables
+^ArmouryTables
 
 Warband'ы Iron Sultanate могут использовать перечисленный ниже **Battlekit**. Предметы Battlekit, помеченные значком • — уникальны для Warband'ов Iron Sultanate, и их правила приведены в разделе Iron Sultanate Battlekit после Armoury (▸ см. Battlekit в *Trench Crusade Digital Rulebook*).
 

@@ -39,3 +39,20 @@ tags:
 
 > [!info] ☩ Undead Horror
 > Модели в этом Warband имеют Keywords **FEAR**, **NEGATE DIFFICULT TERRAIN** и **NEGATE GAS**.
+
+## Trench Ghosts Armoury & Battlekit
+
+Следующий Battlekit доступен Trench Ghosts.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Trench Ghosts/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

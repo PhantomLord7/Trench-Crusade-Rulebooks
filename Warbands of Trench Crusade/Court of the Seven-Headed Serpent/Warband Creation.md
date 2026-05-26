@@ -7,10 +7,12 @@
 У тебя есть 700 👑, чтобы набрать Warband Court of the Seven-Headed Serpent для Campaign (▸ см. Starting a Warband). Court of the Seven-Headed Serpent — **Fallen**.
 
 ## Armoury Tables
+^ArmouryTables
 
 Warband'ы Court of the Seven-Headed Serpent могут использовать перечисленный в Armoury Tables **Battlekit**. Предметы Battlekit, помеченные значком • — уникальны для Warband'ов Court of the Seven-Headed Serpent, и их правила приведены в разделе Court of the Seven-Headed Serpent Battlekit после Armoury (▸ см. Battlekit в *Trench Crusade Digital Rulebook*).
 
 ## The Court's Special Rules
+^SpecialRules
 
 Следующие особые правила применяются к Warband Court of the Seven-Headed Serpent (включая любые Variant Warband'ы Court of the Seven-Headed Serpent).
 

@@ -5,10 +5,12 @@
 У тебя есть **700 👑**, чтобы набрать Trench Pilgrims Warband для кампании (▶ см. [[Starting a Warband]]). Trench Pilgrims — **Faithful**.
 
 ## Special Rules
+^SpecialRules
 
 Никаких особых правил к стандартному Trench Pilgrims Warband не применяется.
 
 ## Armoury Tables
+^ArmouryTables
 
 > [!info]
 > Battlekit, отмеченный точкой [•], уникален для Trench Pilgrims Warbands; его правила приведены в разделе [[#Trench Pilgrims Battlekit|Trench Pilgrims Battlekit]] после Armoury Tables. Правила всего остального Battlekit ищи в [[Battlekit|Battlekit]] (▶ см. Battlekit в Trench Crusade Digital Rulebook):

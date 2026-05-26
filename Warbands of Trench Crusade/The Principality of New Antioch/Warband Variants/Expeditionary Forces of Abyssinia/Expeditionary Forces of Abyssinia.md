@@ -50,18 +50,15 @@ tags:
 
 Следующие пункты Battlekit доступны Expeditionary Forces of Abyssinia Warband.
 
-### Shotel · 5 👑 · Chewa & ELITE only
-
-См. [[Shotel]].
-
-### Holy Water of Lalibela · 3 👑 · Consumable, Limit: 5
-
-См. [[Holy Water of Lalibela]].
-
-### Anfaro (Warrior's Crown) · 10 👑 · Chewa & ELITE only, Headgear, Limit: 6
-
-См. [[Anfaro]].
-
-### Tabot · 4 ☼ · Holy Warrior only, Limit: 1
-
-См. [[Tabot]].
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Expeditionary Forces of Abyssinia/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

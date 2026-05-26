@@ -36,6 +36,15 @@ tags:
 
 Следующий Battlekit доступен только Procession of the Sacred Affliction Warband.
 
-### Holy Icon Armour · 30 👑
-
-См. [[Holy Icon Armour]].
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/Trench Pilgrims/Warband Variants/Procession of the Sacred Affliction/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

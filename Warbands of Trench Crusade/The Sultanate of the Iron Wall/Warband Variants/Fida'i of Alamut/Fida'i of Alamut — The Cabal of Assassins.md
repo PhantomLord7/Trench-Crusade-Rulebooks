@@ -54,3 +54,20 @@ tags:
 
 > [!info] ☩ Master Assassin
 > Warband Fida'i of Alamut должен включать 1 Master Assassin. Master Assassin использует Warband Entry Sultanate Assassin, за исключением того, что он имеет Keywords **LEADER** и **TOUGH** и стоит 95 👑.
+
+## Fida'i of Alamut Armoury & Battlekit
+
+Следующий Battlekit доступен Fida'i of Alamut.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Fida'i of Alamut/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```
