@@ -1,4 +1,4 @@
-Следующие предметы из набора «Battlekit» являются уникальными для New Antioch Warband. Правила, касающиеся всех остальных предметов, приведены в разделе **Battlekit** (▶ см. раздел [[Digital Rulebook/Battlekit/Battlekit|Battlekit]] в Trench Crusade Digital Rulebook»).
+Следующие пункты Battlekit уникальны для New Antioch Warband. Правила для всех остальных пунктов — в стандартном разделе Battlekit (▶ см. [[Digital Rulebook/Battlekit/Battlekit|Battlekit]] в Trench Crusade Digital Rulebook).
 
 ---
 
