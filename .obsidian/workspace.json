@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1cddfd81636552d0",
+        "id": "f6f9732c6c18105d",
         "type": "tabs",
         "children": [
           {
-            "id": "83806bebcc75db69",
+            "id": "fd7175bb705de5d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules Commentaries · Version 1.0.2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rules Commentaries · Version 1.0.2"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -192,8 +188,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83806bebcc75db69",
+  "active": "fd7175bb705de5d3",
   "lastOpenFiles": [
+    "Manuals/The Red Brigade/Armoury & Battlekit/Blood Cloak.md",
+    "Manuals/The Red Brigade/The Red Brigade.md",
+    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Defenders of the Iron Wall.md",
+    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Battlekit/Iron Sultanate Battlekit.md",
+    "Manuals/The Red Brigade/Armoury & Battlekit/The Red Brigade Battlekit.md",
+    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Takwin Homunculus.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Stosstruppen of the Free State of Prussia/Stosstruppen of the Free State of Prussia.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Papal States Intervention Force/Papal States Intervention Force.md",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Kingdom of Alba Assault Detachment/Kingdom of Alba Assault Detachment.md",
+    "Manuals/The Red Brigade/Crimson Communicant.md",
+    "Manuals/The Red Brigade/Trench Dogs of the Red Brigade.md",
+    "Manuals/The Red Brigade/Models",
+    "Manuals/The Red Brigade/Armoury & Battlekit/Red Banner.md",
+    "Manuals/The Red Brigade/Armoury & Battlekit",
+    "Manuals/The Red Brigade",
+    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Contents.md",
+    "Trench Crusade · 1.0.2 Changelog.md",
+    "Manuals",
     "Rules Commentaries · Version 1.0.2.md",
     "Warbands of Trench Crusade/The Sultanate of the Iron Wall/The Sultanate of the Iron Wall.md",
     "Warbands of Trench Crusade/The Principality of New Antioch/The Principality Of New Antioch.md",
@@ -206,20 +220,6 @@
     "Warbands of Trench Crusade/Contents.md",
     "Warbands of Trench Crusade/The Principality of New Antioch/Models/Elite Warband Entries/Sniper Priest.md",
     "Digital Rulebook/Keywords Glossary/Keywords/PILGRIM.md",
-    "Warbands of Trench Crusade/The Principality of New Antioch/Models/Elite Warband Entries/Contents.md",
-    "Warbands of Trench Crusade/Mercenaries/Mercenaries.md",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Models/Troops Warband Entries/Wretched.md",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Goetic Powers List.md",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Battlekit/The Court Battlekit.md",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Warband Creation.md",
-    "Warbands of Trench Crusade/The Cult of the Black Grail/Models/Troops Warband Entries/Grail Thralls.md",
-    "Warbands of Trench Crusade/The Cult of the Black Grail/Battlekit/The Cult of the Black Grail Battlekit.md",
-    "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Creation.md",
-    "Warbands of Trench Crusade/Heretic Legions/Battlekit/Heretic Legions Battlekit.md",
-    "Warbands of Trench Crusade/Heretic Legions/Warband Creation.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Creation.md",
-    "Warbands of Trench Crusade/Trench Pilgrims/Models/Troops Warband Entries/Trench Pilgrims.md",
-    "Warbands of Trench Crusade/Trench Pilgrims/Warband Creation.md",
     "Warbands of Trench Crusade/Mercenaries/Без названия",
     "Warbands of Trench Crusade/Mercenaries",
     "Warbands of Trench Crusade/Images/138.png",
@@ -232,11 +232,7 @@
     "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Models",
     "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Battlekit",
     "Warbands of Trench Crusade/Images/117.png",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent",
-    "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Variants/Dirge of the Great Hegemon/Armoury & Battlekit",
-    "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Variants/Dirge of the Great Hegemon",
     "Warbands of Trench Crusade/Images/114.png",
-    "Warbands of Trench Crusade/The Cult of the Black Grail/Models/Troops Warband Entries",
     "Warbands of Trench Crusade/Images/107.png",
     "Warbands of Trench Crusade/Images/102.png",
     "Warbands of Trench Crusade/Images/100.png",
