@@ -81,7 +81,7 @@
 
 ### KEYWORD Glossary
 1. [[Keyword Benefits]]
-2. [[Digital Rulebook/Keywords Glossary/Keywords Glossary]]
+2. [[Digital Rulebook/Keywords Glossary/Keywords Glossary|Keyword Glossary]]
 
 ### [[Trench Crusade Terrain]]
 1. **[[Trench Crusade Terrain#^TheBattlefield|The Battlefield]]**
