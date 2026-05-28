@@ -45,3 +45,20 @@ tags:
 
 > [!info] ☩ Sipahi
 > Sipahi Automaton Cavalry часто выступают в роли пехоты в частях Iron Wall, чтобы укрепить участки под особым давлением. Warband Defenders of the Iron Wall может включать до 1 Sipahi Automaton Cavalry за стоимость 110 👑. Они используют Mercenary Entry для Mamluk Faris, но их Battlekit нельзя изменять никак. Учти, что это не запрещает тебе также нанять Mamluk Faris как Mercenary.
+
+## Defenders of the Iron Wall Armoury & Battlekit
+
+Следующий Battlekit доступен Defenders of the Iron Wall.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

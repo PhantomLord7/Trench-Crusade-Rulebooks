@@ -50,10 +50,15 @@ tags:
 
 Следующие пункты Battlekit доступны Stosstruppen of the Free State of Prussia Warband.
 
-### Tank-Splitter Sword · 15 👑 · Limit: 2
-
-См. [[Tank-Splitter Sword]].
-
-### Holy Smoke · 15 👑 · Consumable, Trench Clerics only
-
-См. [[Holy Smoke]].
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Stosstruppen of the Free State of Prussia/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

@@ -45,3 +45,20 @@ tags:
 
 > [!info] ☩ Worship Mammon
 > Patron Warband Knights of Avarice — всегда Mammon.
+
+## Knights of Avarice Armoury & Battlekit
+
+Следующий Battlekit доступен Knights of Avarice.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/Heretic Legions/Warband Variants/Knights of Avarice/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

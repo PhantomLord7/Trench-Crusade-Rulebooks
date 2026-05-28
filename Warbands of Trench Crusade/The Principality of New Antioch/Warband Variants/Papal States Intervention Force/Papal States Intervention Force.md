@@ -38,6 +38,16 @@ tags:
 
 Следующие пункты Battlekit доступны Papal States Intervention Force Warband.
 
-### Supreme Pontiff's Crucifix · 3 ☼ · Limit: 1
 
-См. [[Supreme Pontiff's Crucifix]].
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Papal States Intervention Force/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

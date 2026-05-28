@@ -54,3 +54,20 @@ tags:
 > ✦ **Move Command:** Bereaved совершает Move (не может совершить Charge или Retreat).
 >
 > ✦ **Shoot Command:** Bereaved совершает Ranged Attack.
+
+## Dirge of the Great Hegemon Armoury & Battlekit
+
+Следующий Battlekit доступен Dirge of the Great Hegemon.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Cult of the Black Grail/Warband Variants/Dirge of the Great Hegemon/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

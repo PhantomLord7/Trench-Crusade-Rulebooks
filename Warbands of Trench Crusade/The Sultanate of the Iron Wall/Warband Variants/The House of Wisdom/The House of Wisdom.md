@@ -61,3 +61,20 @@ tags:
 
 > [!info] ☩ Weapon Collections
 > При создании стартового Warband ты можешь приобрести 1 предмет Battlekit из Armoury New Antioch и 1 предмет Battlekit из Armoury Trench Pilgrims. Соблюдаются все Stipulations, применимые к этим предметам (так что нет особого смысла брать Battlekit, который могут использовать только модели из других Warband'ов). Ты можешь повторно приобрести Battlekit позднее в кампании, если он будет утрачен по любой причине.
+
+## The House of Wisdom Armoury & Battlekit
+
+Следующий Battlekit доступен The House of Wisdom.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Item",
+  battlekit_type AS "Type",
+  ducats AS "Cost (👑)",
+  glory_cost AS "Cost (☼)",
+  keywords AS "Keywords",
+  stipulations AS "Stipulations"
+FROM "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Armoury & Battlekit"
+WHERE type = "battlekit"
+SORT ducats ASC, file.name ASC
+```

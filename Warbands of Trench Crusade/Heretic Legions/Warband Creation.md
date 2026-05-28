@@ -5,10 +5,12 @@
 У тебя есть 700 👑, чтобы набрать Warband Heretic Legions для кампании (▸ см. [[Starting a Warband]]). Heretic Legions — **Fallen**.
 
 ## Special Rules
+^SpecialRules
 
 К стандартному Warband Heretic Legions не применяются особые правила.
 
 ## Armoury Tables
+^ArmouryTables
 
 Warband'ы Heretic Legions могут использовать перечисленный ниже **Battlekit**. Предметы Battlekit, помеченные значком • — уникальны для Warband'ов Heretic Legions, и их правила приведены в разделе Heretic Legions Battlekit после Armoury (▸ см. Battlekit в *Trench Crusade Digital Rulebook*).
 

@@ -13,6 +13,7 @@ tags:
 Все Goetic Powers, что могут быть использованы моделями в Warband Court of the Seven-Headed Serpent, описаны здесь. Большинство Goetic Powers могут быть взяты только определёнными моделями и/или моделями из Warband'ов, посвящённых определённому Deadly Sin. Любые такие стипуляции включены в описание каждого Power. Кроме того, каждый Power имеет стоимость в ☼.
 
 ## Any Warband
+^AnyWarband
 
 Следующие Goetic Powers могут быть взяты любым Warband Court of the Seven-Headed Serpent (включая Court of the Seven-Headed Serpent Variant Warband'ы).
 
@@ -43,6 +44,7 @@ tags:
 ---
 
 ## Wrath Warbands
+^WrathWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Wrath.
 
@@ -67,6 +69,7 @@ tags:
 ---
 
 ## Envy Warbands
+^EnvyWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Envy.
 
@@ -91,6 +94,7 @@ tags:
 ---
 
 ## Lust Warbands
+^LustWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Lust.
 
@@ -115,6 +119,7 @@ tags:
 ---
 
 ## Pride Warbands
+^PrideWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Pride.
 
@@ -139,6 +144,7 @@ tags:
 ---
 
 ## Sloth Warbands
+^SlothWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Sloth.
 
@@ -163,6 +169,7 @@ tags:
 ---
 
 ## Gluttony Warbands
+^GluttonyWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Gluttony.
 
@@ -187,6 +194,7 @@ tags:
 ---
 
 ## Greed Warbands
+^GreedWarbands
 
 Следующие Goetic Spells и Powers могут быть взяты Warband Court of the Seven-Headed Serpent, что посвящён Греху Greed.
 

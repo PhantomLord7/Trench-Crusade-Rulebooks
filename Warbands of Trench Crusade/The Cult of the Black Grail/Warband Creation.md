@@ -5,10 +5,12 @@
 У тебя есть 700 👑, чтобы набрать Warband Cult of the Black Grail для Campaign (▸ см. Starting a Warband). Cult of the Black Grail — **Fallen**.
 
 ## Armoury Tables
+^ArmouryTables
 
 Warband'ы Cult of the Black Grail могут использовать перечисленный в Armoury Tables **Battlekit**. Предметы Battlekit, помеченные значком • — уникальны для Warband'ов Cult of the Black Grail, и их правила приведены в разделе Cult of the Black Grail Battlekit после Armoury (▸ см. Battlekit в *Trench Crusade Digital Rulebook*).
 
 ## Special Rules
+^SpecialRules
 
 Следующие особые правила применяются к Warband Cult of the Black Grail (включая любые Variant Warband'ы Cult of the Black Grail).
 
@@ -53,6 +55,7 @@ Warband'ы Cult of the Black Grail могут использовать пере�
 
 
 # Armoury Tables
+
 
 ## Ranged Weapons
 
