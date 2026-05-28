@@ -1,7 +1,7 @@
 ---
 type: scenario
 scenario_number: XI
-battlefield_archetype: No Man's Land / Decimated Ruins
+battlefield_archetype: No Man's Land or Decimated Ruins
 battlefield_size: 36" × 36" (минимум)
 game_length: 5 Turns
 markers:

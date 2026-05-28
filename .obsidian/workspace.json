@@ -8,17 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd7175bb705de5d3",
+            "id": "d070142cb6f4c8b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuals/The Great Hunger/Gregori Gula.md",
+                "file": "All Out War Scenario Pack/III — Alliance & Betrayal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gregori Gula"
+              "title": "III — Alliance & Betrayal"
+            }
+          }
+        ]
+      },
+      {
+        "id": "14cd8c63bdabc420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e126633543bba2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Rulebook/Scenarios/II — Hunt for Heroes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "II — Hunt for Heroes"
             }
           }
         ]
@@ -53,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "▸",
+                "query": "Alignment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,54 +212,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd7175bb705de5d3",
+  "active": "d070142cb6f4c8b5",
   "lastOpenFiles": [
-    "Manuals/The Great Hunger/Ravenous.md",
+    "All Out War Scenario Pack/II — Brothers in Arms.md",
+    "All Out War Scenario Pack/I — The Looters.md",
+    "Digital Rulebook/Scenarios/II — Hunt for Heroes.md",
+    "All Out War Scenario Pack/All Out War · Scenario Pack.md",
+    "All Out War Scenario Pack/The Betrayal Table.md",
+    "All Out War Scenario Pack/III — Alliance & Betrayal.md",
+    "Manuals/The Red Brigade/The Red Brigade.md",
+    "Manuals/Images/Red_Brigade_Logo.webp",
+    "Manuals/Images",
+    "Manuals/The Red Brigade/Images",
+    "Digital Rulebook/Scenarios/I — Claim No Man's Land.md",
+    "Digital Rulebook/Scenarios/III — Relic Hunt.md",
+    "Digital Rulebook/Scenarios/IV — Trench Warfare.md",
+    "Digital Rulebook/Scenarios/IX — Fields of Glory.md",
+    "Digital Rulebook/Scenarios/Scenario Format.md",
+    "Digital Rulebook/Scenarios/Scenarios.md",
+    "Digital Rulebook/Scenarios/V — Armoured Train.md",
+    "Digital Rulebook/Scenarios/VI — Dragon Hunt.md",
+    "Digital Rulebook/Scenarios/VII — Supply Raid.md",
+    "Digital Rulebook/Scenarios/VIII — From Below.md",
+    "Digital Rulebook/Scenarios/X — Don't Breathe.md",
+    "Digital Rulebook/Scenarios/XI — The High Ground.md",
+    "Digital Rulebook/Scenarios/XII — Great War.md",
+    "All Out War Scenario Pack/Images/Alliance & Betrayal.png",
+    "Warbands of Trench Crusade/Trench Pilgrims/Warband Variants/Cavalcade of the Tenth Plague/Cavalcade of the Tenth Plague.md",
+    "All Out War Scenario Pack/Images/Brothers in Arms.png",
+    "All Out War Scenario Pack/Images/The Looters.png",
+    "All Out War Scenario Pack/Images",
+    "All Out War Scenario Pack",
     "Manuals/The Great Hunger/Gregori Gula.md",
+    "Manuals/The Great Hunger/Ravenous.md",
     "Manuals/The Great Hunger/Matagot Hag.md",
     "Manuals/The Great Hunger/Armoury & Battlekit/Pestilent Fang.md",
     "Manuals/The Great Hunger/Armoury & Battlekit/Foetid Palanquin.md",
-    "Manuals/The Great Hunger/Armoury & Battlekit/Cup of Filth.md",
-    "Manuals/The Great Hunger/Armoury & Battlekit/Butcher Bayonet.md",
-    "Manuals/The Great Hunger/Armoury & Battlekit/Black Spot Rifle.md",
-    "Manuals/The Great Hunger/The Great Hunger.md",
     "Manuals/The Great Hunger/Armoury & Battlekit",
     "Manuals/The Great Hunger",
-    "Manuals/The Red Brigade/Armoury & Battlekit/Blood Cloak.md",
-    "Manuals/The Red Brigade/The Red Brigade.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/Defenders of the Iron Wall/Defenders of the Iron Wall.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Battlekit/Iron Sultanate Battlekit.md",
-    "Manuals/The Red Brigade/Armoury & Battlekit/The Red Brigade Battlekit.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/Warband Variants/The House of Wisdom/Takwin Homunculus.md",
-    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Stosstruppen of the Free State of Prussia/Stosstruppen of the Free State of Prussia.md",
-    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Papal States Intervention Force/Papal States Intervention Force.md",
-    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Kingdom of Alba Assault Detachment/Kingdom of Alba Assault Detachment.md",
-    "Manuals/The Red Brigade/Crimson Communicant.md",
-    "Manuals/The Red Brigade/Trench Dogs of the Red Brigade.md",
     "Manuals/The Red Brigade/Models",
-    "Manuals/The Red Brigade/Armoury & Battlekit/Red Banner.md",
     "Manuals/The Red Brigade/Armoury & Battlekit",
     "Manuals/The Red Brigade",
-    "Warbands of Trench Crusade/The Principality of New Antioch/Warband Variants/Contents.md",
-    "Trench Crusade · 1.0.2 Changelog.md",
     "Manuals",
-    "Rules Commentaries · Version 1.0.2.md",
-    "Warbands of Trench Crusade/The Sultanate of the Iron Wall/The Sultanate of the Iron Wall.md",
-    "Warbands of Trench Crusade/The Principality of New Antioch/The Principality Of New Antioch.md",
-    "Warbands of Trench Crusade/Mercenaries/Без названия",
-    "Warbands of Trench Crusade/Mercenaries",
     "Warbands of Trench Crusade/Images/138.png",
     "Warbands of Trench Crusade/Images/136.png",
     "Warbands of Trench Crusade/Images/133.png",
     "Warbands of Trench Crusade/Images/132.png",
     "Warbands of Trench Crusade/Images/131.png",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Models/Troops Warband Entries",
-    "Warbands of Trench Crusade/Court of the Seven-Headed Serpent/Models/Elite Warband Entries",
     "Warbands of Trench Crusade/Images/117.png",
-    "Warbands of Trench Crusade/Images/114.png",
-    "Warbands of Trench Crusade/Images/107.png",
-    "Warbands of Trench Crusade/Images/102.png",
-    "Warbands of Trench Crusade/Images/100.png",
     "Без названия.canvas",
     "Без названия 1.canvas"
   ]
